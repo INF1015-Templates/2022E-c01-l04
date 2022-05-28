@@ -4,7 +4,7 @@ set(CMAKE_MESSAGE_LOG_LEVEL VERBOSE)
 include(cmake_cours.cmake)  # Certaines fonctions de configuration de compilation pour ce cours.
 
 # Le nom du projet.
-project(ProjetTD3 CXX)
+project(ProjetTD4 CXX)
 
 afficher_infos_generateur()  # Doit être après "project( )".
 

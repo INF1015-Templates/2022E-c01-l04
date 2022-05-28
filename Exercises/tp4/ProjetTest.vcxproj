@@ -161,7 +161,6 @@
   <ItemGroup>
     <ClCompile Include="bibliotheque_cours\bibliotheque_cours.cpp" />
     <ClCompile Include="bibliotheque_cours\verification_allocation.cpp" />
-    <ClCompile Include="lectureFichierJeux.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -170,12 +169,6 @@
   <ItemGroup>
     <None Include="..\doc\Classroom.md" />
     <None Include="..\doc\Vcpkg.md" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Concepteur.hpp" />
-    <ClInclude Include="lectureFichierJeux.hpp" />
-    <ClInclude Include="Jeu.hpp" />
-    <ClInclude Include="Liste.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
