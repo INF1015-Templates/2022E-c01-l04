@@ -1,0 +1,7 @@
+settings/files_to_update.txt
+settings/variables.txt
+
+README.md
+
+Exercises/solutionnaire-tp2/*
+Exercises/tp3/lectureFichierJeux.hpp

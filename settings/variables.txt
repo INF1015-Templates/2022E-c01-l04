@@ -1,0 +1,4 @@
+classroom_tools_url="https://github.com/chosson/ClassroomTools"
+template_repo_fullname="INF1015-Templates/2022E-c01-l03"
+org_name="INF1015-2022E"
+repo_filter="c01-l03-"
