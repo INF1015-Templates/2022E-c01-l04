@@ -3,5 +3,3 @@ settings/variables.txt
 
 README.md
 
-Exercises/solutionnaire-tp2/*
-Exercises/tp3/lectureFichierJeux.hpp
